@@ -1,0 +1,1 @@
+docker run -p 3000:3000 -v /app/node_modules -v $(pwd):/app sha256:d23cc98bc9e57eccbed8716938190ba0142dda23862b04c2e0c88097f38e8f0a
